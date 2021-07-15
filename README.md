@@ -5,4 +5,4 @@
 
 [换肤插件下载地址](https://pj8.me/lol-nzhf.html)
 
-[牛仔换肤备用下载地址](https://raw.githubusercontent.com/betternight/lol-huanfu/main/lolnzhf.11.9.zip)
+[牛仔换肤备用下载地址](https://raw.githubusercontent.com/betternight/lol-huanfu/main/lolnzhf-s11.zip)
